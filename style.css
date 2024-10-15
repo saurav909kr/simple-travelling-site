@@ -258,9 +258,9 @@ nav {
 .footer hr {
     background:#352d2d;
     height: 1px;
-    width: 100%;
+    width: 90%;
     border: none;
-    margin: 10px 0;
+    margin: 10px auto;
 }
 
 .footer p {
@@ -372,10 +372,14 @@ nav .fa-bars {
             .container-3 p {
                 font-size: 16px;
             }
+  
+}
 
+/*----listing page---*/
 
-
-            
+.navbar-white {
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.5);
 }
     
 
